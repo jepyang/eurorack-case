@@ -3,11 +3,11 @@
 It's a 3D-printable eurorack case.
 
 My design goals:
-	•	A complete case (not just rails and brackets)
-	•	Print in as few pieces as possible
-	•	Simple assembly with as little post-processing as possible
-	•	Easy to power
-	•	Deep enough to fit my deepest module (a circuitbenders.co.uk Phonic Taxidermist). This is no skiff!
+-A complete case (not just rails and brackets)
+-Print in as few pieces as possible
+-Simple assembly with as little post-processing as possible
+-Easy to power
+-Deep enough to fit my deepest module (a circuitbenders.co.uk Phonic Taxidermist). This is no skiff!
   
 Wanting to print in as few pieces as possible means that the size was limited by the size of my printer (Ender 3). As it happens, the maximum height on an Ender 3 is very close to 48HP, which is a fairly standard eurorack case size. Assembly is simple, just three screws and three nuts—the screws and nuts it's designed to assemble with can also be used in the rails to hold modules, so just order a bunch!
 
