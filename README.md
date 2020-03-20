@@ -24,6 +24,8 @@ When printing I had a little trouble with the bottom of the print lifting/warpin
 
 For the rails and the case assembly, you want 7mm M2.5 screws, and M2.5 square nuts. I got my screws on eBay and got my square nuts from Synthcube. To assemble the case, first put your preferred number of square nuts into each rail (18-20 per rail should be plenty). You may want to fix the last nut in each rail with a screw to keep them from falling out as you attach the side. Put three square nuts in the small slots in the side piece. I find it easiest to set the side piece on the table, and set the main piece on top of it. put screws through the main piece at the three indentations, and screw them into the square nuts.
 
+For mounting the MMI power supply, you want three M3 screws. I found that the mounting holes are just snug enough to allow the M3 screws to self-thread and hold the PCB without any additional hardware, but if you want to be sure, you can get some longer M3s and corresponding nuts—the holes go all the way through the back of the case for this reason.
+
 No need to wrench the screws, either on the side or in the rails! This thing is pretty sturdy but its still just plastic!
 
 
